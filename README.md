@@ -1,2 +1,7 @@
-# introduction_to_Qt_QML
-based on youtube course https://www.youtube.com/playlist?list=PL6CJYn40gN6hdNC1IGQZfVI707dh9DPRc
+# Qt/QML Midi Contoller
+
+Test Project for ramping up Qt/QML Knowledge
+
+1. Decide for which device
+2. W/WO Juce
+3. Midi Lib
