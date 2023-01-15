@@ -2,6 +2,8 @@
 
 Test Project for ramping up Qt/QML Knowledge
 
-1. Decide for which device
-2. W/WO Juce
-3. Midi Lib
+1. Conan / CMake Project
+2. Dependencies
+  2.1 Qt/Qml
+  2.2 RtMidi (conan center)
+3. TODO: list devices, select, play note
