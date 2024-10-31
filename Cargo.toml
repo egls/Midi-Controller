@@ -1,0 +1,9 @@
+[package]
+name = "rust_gui_midi_controller"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.29.1"  # Replace with the latest version available
+egui = "0.29.1"    # Replace with the latest version available, typically matches eframe
+midir = "0.10"    # Replace with the latest version available
